@@ -4,6 +4,10 @@
 **ZeroToMastery Full Stack Web Development course** final project.
 The goal was to build a full stack working application, integrating an API and a Database.
 
+### Test User
+**Username:** test@test.test
+**Password:** test
+
 On this  project we used the FACE DETECT MODEL from the CLARIFAI API.
 
 The Project uses the following main tech Stack:
